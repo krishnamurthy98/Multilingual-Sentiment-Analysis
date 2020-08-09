@@ -5,6 +5,8 @@ Note‼️:
 
 ## Setup
 
+Download `nn_model.h5` from releases on github and place it in the project root.
+
 We recommend that you install dependencies in a seperate environment. Here's how -
 
 #### Create a conda Environment
